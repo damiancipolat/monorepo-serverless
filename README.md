@@ -16,8 +16,6 @@ The idea is to unify in a single repository the entire code of different service
 #### Scaffolding:
 I'm following the format of this blog https://seed.run/blog/how-to-structure-a-real-world-monorepo-serverless-app.html.
 
-This is the folder structures,
-
 ```sh
 /
   package.json
