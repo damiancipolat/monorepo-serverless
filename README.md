@@ -30,14 +30,8 @@ These are some benefits that I found to build this project.
 
 ### Decisions to be made:
 
-- **Do I use one or multiple package.json files?**
-
-sdfdsfds dgdf g
-
-- **How do I share common code and config between services?**
-
-sdfsdfdsfdsfdsfdsf
-
+- **Do I use one or multiple package.json files?** `Multiple files, one root file and others files per service.`
+- **How do I share common code and config between services?** `Multiple files, one root file and others files per service.`
 - **How do I share common config between the various serverless.yml?**
 
 sdfdsfdsfdsfdsfdgdfgdfg
