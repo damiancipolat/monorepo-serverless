@@ -8,6 +8,12 @@ The idea is to unify in a single repository the entire code of different service
 #### This work is based on this post:
 https://seed.run/blog/how-to-structure-a-real-world-monorepo-serverless-app.html
 
+- [Scaffolding](#from-s3)
+- [Why use a monorepo?](#from-api)
+- [Benefits](#from-git)
+- [Decitions](#from-git)
+- [Commands](#from-git)
+
 **Scaffolding**:
 ```sh
 /
