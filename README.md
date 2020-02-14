@@ -13,7 +13,7 @@ https://seed.run/blog/how-to-structure-a-real-world-monorepo-serverless-app.html
 
 With a monorepo, projects can be organized and grouped together in whatever way you find to be most logically consistent, and not just because your version control system forces you to organize things in a particular way. Using a single repo also reduces overhead from managing dependencies.
 
-Some readings: 
+**Some readings**: 
 - https://danluu.com/monorepo/
 - https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b
 
