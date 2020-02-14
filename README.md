@@ -33,15 +33,14 @@ These are some benefits that I found to build this project.
 #### **Do I use one or multiple package.json files?** 
 `Multiple` files, one root file and others files per service.
 
-- **How do I share common code and config between services?** `Multiple files, one root file and others files per service.`
-- **How do I share common config between the various serverless.yml?**
+#### **How do I share common code and config between services?** 
+dfdsfdsfdsfdsfsfdsfdsfdsfdsfdsf
 
+#### **How do I share common config between the various serverless.yml?**
 sdfdsfdsfdsfdsfdgdfgdfg
 
-- **How do I reference resources across services?**
-
+#### **How do I reference resources across services?**
 fsadfadsfadsfadsfdsfadsfasdfdsafads
 
-- **How do I automate deployments for services that depend on other services?**
-
+#### **How do I automate deployments for services that depend on other services?**
 dfadsdsfds
