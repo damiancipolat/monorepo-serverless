@@ -17,7 +17,7 @@ Some readings:
 - https://danluu.com/monorepo/
 - https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b
 
-### Benefits:
+## Benefits:
 These are some benefits that I found to build this project.
 
 - Share code.
