@@ -9,7 +9,7 @@ The idea is to unify in a single repository the entire code of different service
 https://seed.run/blog/how-to-structure-a-real-world-monorepo-serverless-app.html
 
 
-### Why?:
+## Why?:
 
 With a monorepo, projects can be organized and grouped together in whatever way you find to be most logically consistent, and not just because your version control system forces you to organize things in a particular way. Using a single repo also reduces overhead from managing dependencies.
 
@@ -27,7 +27,7 @@ These are some benefits that I found to build this project.
 - Simple to use.
 - Best serverless files order.
 
-### Decisions to be made:
+## Decisions to be made:
 
 #### **Do I use one or multiple package.json files?** 
 `Multiple` files, one root file and others files per service.
