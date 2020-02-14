@@ -5,8 +5,6 @@
 This repository was created to be used in nodejs projects using serverless in AWS. 
 The idea is to unify in a single repository the entire code of different services.
 
-#### This work is based on this post:
-https://seed.run/blog/how-to-structure-a-real-world-monorepo-serverless-app.html
 
 #### Menu:
 - [Scaffolding](#from-s3)
@@ -16,6 +14,8 @@ https://seed.run/blog/how-to-structure-a-real-world-monorepo-serverless-app.html
 - [Commands](#from-git)
 
 **Scaffolding**:
+I'm following the format of this blog https://seed.run/blog/how-to-structure-a-real-world-monorepo-serverless-app.html.
+
 ```sh
 /
   package.json
