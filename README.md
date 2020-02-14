@@ -18,11 +18,6 @@ Some readings:
 - https://danluu.com/monorepo/
 - https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b
 
-### Is ok?:
-
-Well its depend, I really prefer to  use a repo per service and share the commond code in a private npm/modules.
-There may be work scenarios that we have to choose this path, so I set up this repository to analyze this.
-
 ### Benefits:
 These are some benefits that I found to build this project.
 
@@ -32,3 +27,20 @@ These are some benefits that I found to build this project.
 - Configuration separated by namespace.
 - Simple to use.
 - Best serverless files order.
+
+### Decisions to be made:
+
+- **Do I use one or multiple package.json files?**
+sdfdsfds dgdf g
+
+- **How do I share common code and config between services?**
+sdfsdfdsfdsfdsfdsf
+
+- **How do I share common config between the various serverless.yml?**
+sdfdsfdsfdsfdsfdgdfgdfg
+
+- **How do I reference resources across services?**
+fsadfadsfadsfadsfdsfadsfasdfdsafads
+
+- **How do I automate deployments for services that depend on other services?**
+dfadsdsfds
