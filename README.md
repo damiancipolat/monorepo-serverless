@@ -33,7 +33,8 @@ These are some benefits that I found to build this project.
 `Multiple` files, one root file and others files per service.
 
 #### **How do I share common code and config between services?** 
-dfdsfdsfdsfdsfsfdsfdsfdsfdsfdsf
+You share the common code, creating a lib for reutilizable code, that isused in the differents projects.
+The config is splitted in namespace, the configuration folder is located in the root path.
 
 #### **How do I share common config between the various serverless.yml?**
 sdfdsfdsfdsfdsfdgdfgdfg
