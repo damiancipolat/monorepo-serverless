@@ -62,6 +62,3 @@ We have separate serverless.yml configs for our services. However, we end up nee
 
 #### **How do I reference resources across services?**
 Create a resource in each service or in the root serverless or you can create a resource for one service and use the outputs in the file. Use the clausule Fn::ImportValue... to import **outputs** from other sls files. Is important to respect the order.
-
-#### **How do I automate deployments for services that depend on other services?**
-dfadsdsfds
