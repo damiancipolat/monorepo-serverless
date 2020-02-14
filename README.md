@@ -22,3 +22,13 @@ Some readings:
 
 Well its depend, I really prefer to  use a repo per service and share the commond code in a private npm/modules.
 There may be work scenarios that we have to choose this path, so I set up this repository to analyze this.
+
+### Benefits:
+These are some benefits that I found to build this project.
+
+- Share code.
+- Separate dependencies.
+- Multiple package.json.
+- Configuration separated by namespace.
+- Simple to use.
+- Best serverless files order.
