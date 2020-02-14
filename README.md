@@ -34,13 +34,16 @@ These are some benefits that I found to build this project.
 
 #### **How do I share common code and config between services?** 
 You share the common code, creating a lib for reutilizable code, that isused in the differents projects.
-The config is splitted in namespace, the configuration folder is located in the root path.
+The configuraton is splitted in namespace, the /config folder is located in the root path.
 
 #### **How do I share common config between the various serverless.yml?**
-sdfdsfdsfdsfdsfdgdfgdfg
+We have separate serverless.yml configs for our services. However, we end up needing to share some config across all of our serverless.yml files. To do that:
+
+- Place the shared config values in a common yaml file at the root level.
+- And reference them in your individual serverless.yml files.
 
 #### **How do I reference resources across services?**
-fsadfadsfadsfadsfdsfadsfasdfdsafads
+Create a resource in each service or in the root serverless or you can create a resource for one service and use the outputs in the file. Use the clausule Fn::ImportValue... to import **outputs** from other sls files. Is important to respect the order.
 
 #### **How do I automate deployments for services that depend on other services?**
 dfadsdsfds
