@@ -14,6 +14,7 @@ The idea is to unify in a single repository the entire code of different service
 - [Commands](#from-git)
 
 **Scaffolding**:
+
 I'm following the format of this blog https://seed.run/blog/how-to-structure-a-real-world-monorepo-serverless-app.html.
 
 ```sh
