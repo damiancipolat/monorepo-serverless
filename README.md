@@ -8,6 +8,24 @@ The idea is to unify in a single repository the entire code of different service
 #### This work is based on this post:
 https://seed.run/blog/how-to-structure-a-real-world-monorepo-serverless-app.html
 
+**Scaffolding**:
+```sh
+/
+  package.json
+  config.yml
+  libs/
+  services/
+    purchase-api/
+      package.json
+      serverless.yml
+      handler.js
+    confirmation-job/
+      serverless.yml
+      handler.js
+    shipping-job/
+      serverless.yml
+      handler.js
+```
 
 ## Why?:
 
