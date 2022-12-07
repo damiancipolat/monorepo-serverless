@@ -11,6 +11,6 @@
   "dependencies": {
     "config": "^3.2.5",
     "moment": "^2.24.0",
-    "serverless": "^1.63.0"
+    "serverless": "^3.25.1"
   }
 }
